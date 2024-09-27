@@ -1,6 +1,6 @@
 # Turbulence
 
-![Turfulence Logo](path_to_logo)
+![Turfulence Overview](./image/systemoverview.png)
 
 **Turbulence** is a high-performance, distributed scheduling framework designed for the orchestration of large-scale machine learning models. It provides a robust and scalable solution to manage computational resources efficiently, ensuring that model training and inference tasks are executed with optimal performance.
 
